@@ -1,0 +1,11 @@
+//set do not allow duplicate elements in the elements
+Abstract class - provides a body framework for the set interface.
+Interface supports multiple inheritance.
+Abstract class doesn't support multiple inheritance.
+ topics: 
+ **map interface**
+ A map interface in Java stores data in key and value pairs with
+unique keys.
+● It provides methods like put, get, remove, and containsKey.
+● It is commonly used for key-value-pair storage.
+
